@@ -8,7 +8,7 @@ from airflow.providers.google.cloud.operators.dataproc import (
     DataprocSubmitJobOperator,
 )
 
-PROJECT_ID = "avd-healthcare-airflow-env"
+PROJECT_ID = "projectkunal123"
 REGION = "us-central1"
 CLUSTER_NAME = "cluster-1"
 COMPOSER_BUCKET = "us-central1-avd-healthcare--4e121fd0-bucket"
